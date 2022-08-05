@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+        object-fit: contain;
+        background-size: cover;
+        position: relative;
+}
+.one1{
+    width: 500px;
+    margin-top: 400px;
+    margin-left: 1000px;
+    position:absolute;
+}
+.two2{
+  width: 500px;
+    margin-top: 400px;
+    margin-left: 100px;
+    position:absolute;
+}
